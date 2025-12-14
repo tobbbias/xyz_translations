@@ -2,7 +2,7 @@
 
 This resource handles localization for the project. We are currently introducing support for multiple languages.
 
-## Supported Languages # Inprogress
+## Supported Languages
 - [ ] English (`en.json`)
 - [ ] Greek (`el.json`)
 - [ ] Español (`es.json`)
