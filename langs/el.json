@@ -1,3 +1,24 @@
 {
-    
+    "homescreen": {
+        "new_game": "Νέο παιχνίδι",
+        "continue": "Συνέχεια παιχνιδιού",
+        "settings": "Ρυθμίσεις",
+        "quit": "Έξοδος"
+    },
+
+    "act1_a": {
+        "ryan_cooper": "Ράιαν Κούπερ",
+        "loose_ends": "Loose Ends",
+        "gps_sent": "Στάλθηκε το σήμα GPS",
+        "join_pursuit": "Συμμετοχή στην καταδίωξη",
+        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+    },
+    "act1_chase": {
+        "stop_car_title": "Σταματά το όχημα που προσπαθεί να διαφύγει",
+        "stop_car_desc": "Προκάλεσε ζημιές στο όχημα που προσπαθεί να διαφύγει για να το ακινητοποιήσεις."
+    },
+    "char_select": {
+        "jenna": "Τζένα",
+        "derek": "Ντέρεκ"
+    }
 }
