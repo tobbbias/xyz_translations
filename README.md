@@ -10,6 +10,7 @@ This resource handles localization for the project. We are currently introducing
 - [ ] Norwegian (`nb.json`)
 - [ ] Dutch (`nl.json`)
 - [ ] Polish (`pl.json`)
+- [ ] French (`fr.json`)
 
 
 ## Contributing
