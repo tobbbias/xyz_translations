@@ -1,3 +1,24 @@
 {
+    "homescreen": {
+        "new_game": "Nytt Spill",
+        "continue": "Fortsett",
+        "settings": "Innstillinger",
+        "quit": "Avslutt"
+    },
 
+    "act1_a": {
+        "ryan_cooper": "Anton Pærksen",
+        "loose_ends": "Loose Ends",
+        "gps_sent": "Lokasjon er sendt",
+        "join_pursuit": "Legg deg i Biljakten",
+        "join_pursuit_desc": "Bli med Anton Pærksen i den intensive biljakten gjennom byens gater."
+    },
+    "act1_chase": {
+        "stop_car_title": "Stopp den flyktende bilen",
+        "stop_car_desc": "Ødelegg bilen for å stoppe biljakten."
+    },
+    "char_select": {
+        "jenna": "Jenna",
+        "derek": "Derek"
+    }
 }
