@@ -1,4 +1,11 @@
 {
+    "homescreen": {
+        "new_game": "New Game",
+        "continue": "Continue",
+        "settings": "Settings",
+        "quit": "Quit"
+    },
+
     "act1_a": {
         "ryan_cooper": "Ryan Cooper",
         "loose_ends": "Loose Ends",
