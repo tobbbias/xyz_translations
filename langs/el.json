@@ -8,10 +8,10 @@
 
     "act1_a": {
         "ryan_cooper": "Ράιαν Κούπερ",
-        "loose_ends": "Loose Ends",
+        "loose_ends": "Εκκρεμότητες",
         "gps_sent": "Στάλθηκε το σήμα GPS",
         "join_pursuit": "Συμμετοχή στην καταδίωξη",
-        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+        "join_pursuit_desc": "Πήγαινε μαζί με τον Ράιαν Κούπερ σε μια καταδίωξη στους δρόμους της πόλης."
     },
     "act1_chase": {
         "stop_car_title": "Σταματά το όχημα που προσπαθεί να διαφύγει",
